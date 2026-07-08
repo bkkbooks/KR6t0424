@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6t0424/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然覺證院畧頌云三礼如來雙唯呂文多沒駄南多沒駄南多縛曰羅赦多縛曰羅赦縛曰羅藥刃呂律交參追可記迴向中曲也句思煩掾行道彳大薩虗空惹羅始吠南謨攝受故聞少音也
+  hash: sha256:33088cb4169d1e1707db0d1d5565480db6094161a1b7452f81761f618b9e1578
+  markers:
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6t0424_T_001-0825a03.h.1, level: 2}
+  - {type: 'tls:head', offset: 0, content: '', id: KR6t0424_T_001-0825a03.h.1}
+  - {type: 'tls:div-end', offset: 74, content: '', id: KR6t0424_T_001-0825a03.h.1}
+metadata:
+  title: 魚山私鈔
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0424.xml
+hash: sha256:74440bec2b0d396d220b74e2499453b9dcaf1b69fd133f2c7d8beee0809d679a

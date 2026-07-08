@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR6t0424/v1
+canonical_location: https://kanripo.org/bkk/KR6t0424/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0424_001.yaml, hash: 'sha256:56d64039aacb3e8dcf64d7d2fc08b40f6b4f6017cb5ea3ba99459d00a2d98661'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0424_001.markers.yaml, hash: 'sha256:30dc8b771f716550b7a0368e993ea87ee119cda32601f731d89516be9b2f3b98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 74
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 魚山私鈔
+  identifiers:
+    krp: KR6t0424
+    canon: T
+    vol: '84'
+    'no': '2713'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0424.xml
+  edition:
+    short: bkk
+hash: sha256:89f3051372be2570a5a662225beddd3fac4db2adc91fef1f8f2c4f539d49a090
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
+editions:
+- short: T

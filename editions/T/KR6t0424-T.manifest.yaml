@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6t0424/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0424/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0424_001-T.yaml, hash: 'sha256:74440bec2b0d396d220b74e2499453b9dcaf1b69fd133f2c7d8beee0809d679a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0424_001-T.markers.yaml, hash: 'sha256:a668c6a4a6305ffebfea970e95d8d0682173ce300ca31ea9a7f8e8cb1eb2800a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 74
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 魚山私鈔
+  identifiers:
+    krp: KR6t0424
+    canon: T
+    vol: '84'
+    'no': '2713'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0424.xml
+  edition:
+    short: T
+hash: sha256:5cd6ad98ac241d6da769e1f082b417be21cf2acf3bad88d0e68a7463c69579fa
