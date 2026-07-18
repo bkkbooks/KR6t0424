@@ -6091,5 +6091,6 @@ markers:
   - {type: punctuation, offset: 74, content: E, id: ''}
   - {type: punctuation, offset: 74, content: ']', id: ''}
   - {type: paragraph-break, offset: 74, content: '', id: KR6t0424_T_001-0825a04.p.1_end, role: close}
+  - {type: 'voice:problem', offset: 74, length: 0, id: KR6t0424_T_001-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 74 with no matching '('}
   back: []
-hash: sha256:a668c6a4a6305ffebfea970e95d8d0682173ce300ca31ea9a7f8e8cb1eb2800a
+hash: sha256:c0bc27f39170cdf552ba76581e4d8887ac4e3c350490912a069a1f0bae5d2706
